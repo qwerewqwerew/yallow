@@ -5,13 +5,13 @@
 		font-size: 60%;
 	}
 	:root {
-		--col: 8.2rem * 0.8;
+		--col: calc(8.2rem * 0.8);
 	}
 }
 
 @media screen and (max-width: 930px) {
 	:root {
-		--col: 8.2rem * 0.7;
+		--col: calc(8.2rem * 0.7);
 	}
 }
 /* ====================================
